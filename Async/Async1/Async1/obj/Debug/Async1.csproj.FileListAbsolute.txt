@@ -1,0 +1,9 @@
+D:\Development\Git\Tuan\Async\Async1\Async1\bin\Debug\Async1.exe.config
+D:\Development\Git\Tuan\Async\Async1\Async1\bin\Debug\Async1.exe
+D:\Development\Git\Tuan\Async\Async1\Async1\bin\Debug\Async1.pdb
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.csprojResolveAssemblyReference.cache
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.Form1.resources
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.Properties.Resources.resources
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.csproj.GenerateResource.Cache
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.exe
+D:\Development\Git\Tuan\Async\Async1\Async1\obj\Debug\Async1.pdb
