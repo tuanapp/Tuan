@@ -1,0 +1,9 @@
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\bin\Debug\Event-Delegate.exe.config
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\bin\Debug\Event-Delegate.exe
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\bin\Debug\Event-Delegate.pdb
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event-Delegate.csprojResolveAssemblyReference.cache
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event_Delegate.Form1.resources
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event_Delegate.Properties.Resources.resources
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event-Delegate.csproj.GenerateResource.Cache
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event-Delegate.exe
+D:\Development\Git\Tuan\Event-Delegate\Event-Delegate\obj\Debug\Event-Delegate.pdb

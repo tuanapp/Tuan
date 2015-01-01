@@ -1,0 +1,9 @@
+D:\Development\Git\Tuan\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Development\Git\Tuan\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Development\Git\Tuan\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.Cache
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Development\Git\Tuan\Delegate\Delegate\obj\Debug\Delegate.pdb

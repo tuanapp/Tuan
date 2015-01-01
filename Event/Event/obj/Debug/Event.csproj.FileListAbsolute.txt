@@ -1,0 +1,3 @@
+D:\Development\Git\Tuan\Event\Event\bin\Debug\Event-Delegate.exe.config
+D:\Development\Git\Tuan\Event\Event\obj\Debug\Event-Delegate.exe
+D:\Development\Git\Tuan\Event\Event\obj\Debug\Event-Delegate.pdb
